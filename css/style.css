@@ -1,3 +1,22 @@
+header {
+    background-color: aqua;
+}
+
+nav {
+    padding-left: 5px;
+}
+
+nav li {
+    display: inline;
+    padding-right: 5px;
+}
+
+nav li a {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 110%;
+}
+
 body {
     background-color: aliceblue;
 }
