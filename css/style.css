@@ -19,6 +19,7 @@ nav li a {
 
 body {
     background-color: aliceblue;
+    text-align: center;
 }
 
 p {
@@ -38,4 +39,9 @@ td {
     border: 2px solid black;
     text-align: center;
     padding: 10px;
+  }
+
+  ol,ul {
+    text-align: center;
+    list-style-position: inside;
   }
